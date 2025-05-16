@@ -7,10 +7,12 @@ baseurl: ""
 url: "https://mark-collins.github.io"
 github_username: MA01R
 minimal_mistakes_skin: "air"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-remote-theme
 markdown: kramdown
 highlighter: rouge
 include: ["_pages"]
