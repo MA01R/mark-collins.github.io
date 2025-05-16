@@ -1,0 +1,18 @@
+
+title: "Mark Collins"
+name: "Mark Collins"
+description: "Senior Lead Engineer | Cloud Computing | Automation | Cybersecurity"
+email: mark.allen.collins1@gmail.com
+baseurl: ""
+url: "https://mark-collins.github.io"
+twitter_username: none
+github_username: MA01R
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+google_site_verification: null
+markdown: kramdown
+highlighter: rouge
+include: ["_pages"]
