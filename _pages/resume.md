@@ -5,6 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-Download my full résumé below:
+You can download my resume here:
 
 [📄 Mark Collins Resume (PDF)](/assets/Mark_Collins_Resume.pdf)
